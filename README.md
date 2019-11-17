@@ -1,3 +1,3 @@
 # Nauka gita
 
-Wprawka
+*Wprawka c.d.*
